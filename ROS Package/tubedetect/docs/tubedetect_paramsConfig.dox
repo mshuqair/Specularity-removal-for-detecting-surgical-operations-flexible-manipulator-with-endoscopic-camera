@@ -1,0 +1,14 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~lower_bound_H" : \b [int] Lower Bound Hue min: 0, default: 38, max: 180
+- \b "~upper_bound_H" : \b [int] Upper Bound Hue min: 0, default: 70, max: 180
+- \b "~lower_bound_S" : \b [int] Lower Bound Saturation min: 0, default: 40, max: 256
+- \b "~upper_bound_S" : \b [int] Upper Bound Saturation min: 0, default: 256, max: 256
+- \b "~lower_bound_V" : \b [int] Lower Bound Value min: 0, default: 10, max: 256
+- \b "~upper_bound_V" : \b [int] Upper Bound Value min: 0, default: 240, max: 256
+- \b "~sr_enable" : \b [bool] Specularity Removal Enable min: False, default: False, max: True
+- \b "~sr_saturation" : \b [double] Saturation of The Specular Free Image min: 0.1, default: 1.0, max: 2.0
+- \b "~sr_depth" : \b [double] Depth of the Specularity Removal min: 0.0, default: 0.5, max: 1.0
+

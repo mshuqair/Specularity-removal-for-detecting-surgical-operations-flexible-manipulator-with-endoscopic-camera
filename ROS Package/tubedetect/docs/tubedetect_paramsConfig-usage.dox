@@ -1,0 +1,15 @@
+\subsubsection usage Usage
+\verbatim
+<node name="tubedetect" pkg="tubedetect" type="tubedetect">
+  <param name="lower_bound_H" type="int" value="38" />
+  <param name="upper_bound_H" type="int" value="70" />
+  <param name="lower_bound_S" type="int" value="40" />
+  <param name="upper_bound_S" type="int" value="256" />
+  <param name="lower_bound_V" type="int" value="10" />
+  <param name="upper_bound_V" type="int" value="240" />
+  <param name="sr_enable" type="bool" value="False" />
+  <param name="sr_saturation" type="double" value="1.0" />
+  <param name="sr_depth" type="double" value="0.5" />
+</node>
+\endverbatim
+
