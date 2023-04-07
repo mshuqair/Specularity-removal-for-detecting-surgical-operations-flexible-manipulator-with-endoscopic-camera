@@ -1,0 +1,7 @@
+The images were obtained from the following internet sources:
+* Computational Vision Laboratory, School of Computer Science, Simon Fraser University. Accessed: 21/3/2014.
+http://www.cs.sfu.ca/~colour/data/colour_constancy_test_images/index.html.
+* Tan, R. T. Singapore Institute of Management. Accessed: 21/3/2014.
+http://php-robbytan.rhcloud.com/code.html
+* Yang, Q., Yang, T. Department of Computer Science, City University of Hong Kong. Accessed: 21/3/2014.
+http://www.cs.cityu.edu.hk/~qiyang/
