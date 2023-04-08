@@ -1,12 +1,8 @@
 # Specularity Removal for Detecting a Flexible Manipulator for Surgical Operations with an Endoscopic Camera
 Master thesis for completeing M.Sc. in Mechatronics from University of Siegen, Siegen, Germany.
 
-## Source Codes
-Author: Mustafa Shuqair (mustafa.shuqair@gmail.com)
-Release date: April 2nd, 2014
-
 **Copyright:**
-Copyright and all rights therein are retained by authors  or by other copyright holders. All persons copying this  information are expected to adhere to the terms and constraints invoked by each author's copyright. The code may be used for non-commercial purposes only.
+* Copyright and all rights therein are retained by authors  or by other copyright holders. All persons copying this  information are expected to adhere to the terms and constraints invoked by each author's copyright. The code may be used for non-commercial purposes only.
 
 Published reports of research using this code (or a modified version) should cite the article that describes the algorithm: 
 * Shuqair, M. Specularity Removal for Detecting a Flexible Manipulator for Surgical Operations with an Endoscopic Camera. Master Thesis, University of Siegen. 2014.
